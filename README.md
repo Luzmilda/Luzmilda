@@ -41,12 +41,10 @@ Soy una desarrolladora junior apasionada por el desarrollo web, actualmente enfo
 
 ## Experiencia
 - **Prácticas en ReinvetaSL**: Participé en auditorías técnicas, enfocándome en revisión de código, depuración y mejores prácticas para mejorar la calidad y eficiencia de aplicaciones.
-- <br>
-
-<img align="right" alt="Coding" width="300" src="https://cdn.dribbble.com/users/1277312/screenshots/14733298/media/39b1045e593737587dd60e42c8422d1f.gif" >
 <br>
 
 <hr width="60%" >
+<img align="right" alt="Coding" width="300" src="https://cdn.dribbble.com/users/1277312/screenshots/14733298/media/39b1045e593737587dd60e42c8422d1f.gif" >
 
 ## Buscando Oportunidades
 Estoy buscando roles junior en desarrollo web, como front-end developer. ¡Contáctame si tienes proyectos, consejos o oportunidades de colaboración!
